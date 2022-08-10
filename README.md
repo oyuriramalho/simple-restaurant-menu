@@ -1,2 +1,3 @@
 # simple-restaurant-menu
-A simple menu with just HTML &amp; CSS to fix knowledge
+A simple menu with just HTML and CSS to fix knowledge
+Learning on RpcketSeat's 3rd edition of Explorer
